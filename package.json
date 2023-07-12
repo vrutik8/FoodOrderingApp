@@ -1,0 +1,30 @@
+{
+  "name": "food_deliveryapp",
+  "version": "1.0.0",
+  "description": "Food_Delivery_App by Vrutik (Play)",
+  "main": "App.js",
+  "scripts": {
+    "start": "parcel index.html",
+    "build": "parcel build index.html",
+    "test": "jest"
+  },
+  "keywords": [
+    "Food_Delivery_App",
+    "by",
+    "Vrutik",
+    "(Play)"
+  ],
+  "author": "Vrutik",
+  "license": "ISC",
+  "devDependencies": {
+    "parcel": "^2.9.3",
+    "process": "^0.11.10"
+  },
+  "dependencies": {
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0"
+  },
+  "browserlist": [
+    "last 2 versions"
+  ]
+}
