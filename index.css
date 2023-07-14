@@ -1,0 +1,41 @@
+.header{
+    display: flex;
+    background-color: rgb(139, 135, 135);
+    border: 1px solid rgb(0, 0, 0);
+    height: 7rem;
+    justify-content: space-between;
+    align-items: center;
+}
+
+ul {
+    display: flex;
+    list-style-type: none;
+
+}
+
+li{
+    padding: 2rem;
+    color: rgb(255, 255, 255);
+    font-size: 1.4rem;
+}
+
+.logo{
+    width: 8rem;
+    height: 7rem;
+}
+
+.search{
+    display: flex;
+    justify-content: center;
+    margin-top: 2rem;
+}
+
+.search-input{
+    border-radius: 1rem;
+}
+
+.search-btn{
+    border-radius: 1rem;
+    margin-left: 1rem;
+}
+
